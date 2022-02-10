@@ -72,7 +72,7 @@ For internet streaming youtube-dl or yt-dlp must be downloaded and installed man
 
 #### File Associations
 
-File Associations can be registered using the context menu under 'Settings > Setup'.
+File Associations can be registered using the context menu under 'Tools > Setup'.
 
 After the file associations were registered, it might be necessary to change the
 default app in the Windows settings (Win+I, ms-settings:defaultapps).
